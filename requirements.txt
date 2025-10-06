@@ -1,0 +1,8 @@
+torch>=1.7.0
+numpy
+soundfile
+librosa
+scipy
+tqdm
+pydub
+# Add any additional dependencies required by your
