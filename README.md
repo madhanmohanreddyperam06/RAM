@@ -220,3 +220,17 @@ On page `load`, [`app.js`](app.js) speaks `"Initializing JARVIS..."` and runs `w
 ## License
 
 This project is licensed under the **MIT License** — see the [`LICENSE`](LICENSE) file for details.
+
+---
+
+## Contact Information
+
+### Madhan Mohan Reddy
+
+- **Email**: <madhanmohanreddyperam06@gmail.com>
+- **Mobile**: +91 9110395993
+
+---
+<div align="center">
+© 2026 Campus Finder. All rights reserved.
+</div>
