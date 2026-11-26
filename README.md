@@ -12,9 +12,6 @@
 ![tqdm](https://img.shields.io/badge/tqdm-Progress_Bar-FFC107?style=flat-square&logo=tqdm)
 ![Font Awesome](https://img.shields.io/badge/Font_Awesome-5.15.3-538DD7?style=flat-square&logo=fontawesome)
 ![Google Fonts](https://img.shields.io/badge/Google_Fonts-Roboto_Mono-4285F4?style=flat-square&logo=googlefonts)
-
-[Features](#features) · [Architecture](#architecture--workflow) · [Commands](#supported-commands) · [Tech Stack](#tech-stack) · [Installation](#installation--usage) · [Project Structure](#project-structure)
-
 </div>
 
 ---
