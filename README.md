@@ -232,5 +232,5 @@ This project is licensed under the **MIT License** — see the [`LICENSE`](LICEN
 
 ---
 <div align="center">
-© 2026 Campus Finder. All rights reserved.
+© 2026 RAM. All rights reserved.
 </div>
